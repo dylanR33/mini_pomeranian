@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ea36d447-add9-4a55-9db8-127fe3248a50")
+	(paper "A4")
+	(title_block
+		(title "Motor Controller")
+		(date "2024-09-18")
+		(rev "v1.0")
+		(company "Mini-Pomeranian")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
