@@ -1,4 +1,5 @@
 | Device | Purpose | Availability | Price | Link |
+| ------ | ------- | ------------ | ----- | ---- |
 | STM32F446RET6 | MCU | Available | $11.16 | [Digikey](https://www.digikey.com/en/products/detail/texas-instruments/DRV8323RHRGZT/7356133) |
 | DRV8323RHRGZT | Multiphase Motor Driver | Available | $5.75 | [Digikey](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F446RET6/5175962) |
 | MCP2542FDT-H/MNY | CANbus Transceiver | Available | $1.11 | [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/MCP2542FDT-H-MNY/5975746) |
