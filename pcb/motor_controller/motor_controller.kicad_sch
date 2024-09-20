@@ -2760,7 +2760,7 @@
 					)
 				)
 				(pin output line
-					(at 10.1899 -8.9632 180)
+					(at -10.112 8.9562 0)
 					(length 2.54)
 					(name "SSD"
 						(effects
@@ -2778,7 +2778,7 @@
 					)
 				)
 				(pin power_in line
-					(at -10.16 6.35 0)
+					(at 10.16 -6.35 180)
 					(length 2.54)
 					(name "TEST"
 						(effects
@@ -2796,7 +2796,7 @@
 					)
 				)
 				(pin output line
-					(at -10.16 3.81 0)
+					(at 10.16 -3.81 180)
 					(length 2.54)
 					(name "MGL"
 						(effects
@@ -2814,7 +2814,7 @@
 					)
 				)
 				(pin input line
-					(at -10.16 1.27 0)
+					(at 10.16 -1.27 180)
 					(length 2.54)
 					(name "SCLK"
 						(effects
@@ -2832,7 +2832,7 @@
 					)
 				)
 				(pin power_in line
-					(at -10.16 -1.27 0)
+					(at 10.16 1.27 180)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2850,7 +2850,7 @@
 					)
 				)
 				(pin no_connect line
-					(at -10.16 -3.81 0)
+					(at 10.16 3.81 180)
 					(length 2.54)
 					(name "NC"
 						(effects
@@ -2868,7 +2868,7 @@
 					)
 				)
 				(pin input line
-					(at -10.16 -6.35 0)
+					(at 10.16 6.35 180)
 					(length 2.54)
 					(name "SSCK"
 						(effects
@@ -2886,7 +2886,7 @@
 					)
 				)
 				(pin output line
-					(at -10.16 -8.89 0)
+					(at 10.16 8.89 180)
 					(length 2.54)
 					(name "MGH"
 						(effects
@@ -2922,7 +2922,7 @@
 					)
 				)
 				(pin output line
-					(at 10.16 -6.35 180)
+					(at -10.0821 6.343 0)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -2940,7 +2940,7 @@
 					)
 				)
 				(pin output line
-					(at 10.2379 -3.817 180)
+					(at -10.16 3.81 0)
 					(length 2.54)
 					(name "Z"
 						(effects
@@ -2958,7 +2958,7 @@
 					)
 				)
 				(pin input line
-					(at 10.16 -0.9722 180)
+					(at -10.0821 0.9652 0)
 					(length 2.54)
 					(name "MOSI"
 						(effects
@@ -2976,7 +2976,7 @@
 					)
 				)
 				(pin input line
-					(at 10.1899 1.1968 180)
+					(at -10.112 -1.2038 0)
 					(length 2.54)
 					(name "CS"
 						(effects
@@ -2994,7 +2994,7 @@
 					)
 				)
 				(pin output line
-					(at 10.1899 3.7368 180)
+					(at -10.112 -3.7438 0)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -3012,7 +3012,7 @@
 					)
 				)
 				(pin output line
-					(at 10.1899 6.2768 180)
+					(at -10.112 -6.2838 0)
 					(length 2.54)
 					(name "MISO"
 						(effects
@@ -3030,7 +3030,7 @@
 					)
 				)
 				(pin power_in line
-					(at 10.1899 8.8168 180)
+					(at -10.112 -8.8238 0)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -3048,7 +3048,7 @@
 					)
 				)
 				(pin output line
-					(at -10.16 8.89 0)
+					(at 10.16 -8.89 180)
 					(length 2.54)
 					(name "PWM"
 						(effects
@@ -3199,7 +3199,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 8.89 0 180)
+					(at 8.89 -7.62 180)
 					(length 2.54)
 					(name "VIO"
 						(effects
@@ -3217,7 +3217,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 8.89 -2.54 180)
+					(at 8.89 -5.08 180)
 					(length 2.54)
 					(name "CANL"
 						(effects
@@ -3235,7 +3235,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 8.89 -5.08 180)
+					(at 8.89 -2.54 180)
 					(length 2.54)
 					(name "CANH"
 						(effects
@@ -3253,7 +3253,7 @@
 					)
 				)
 				(pin input line
-					(at 8.89 -7.62 180)
+					(at 8.89 0 180)
 					(length 2.54)
 					(name "STBY"
 						(effects
