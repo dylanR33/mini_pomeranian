@@ -1,5 +1,10 @@
 # Kicad
 *-backups
-fp-info-cache
 *.bak
+*.bck
+*.sch-bak
 *.kicad_pcb-bak
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
