@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "motor_controller_symbols"
+    ]
   },
   "meta": {
     "filename": "motor_controller.kicad_pro",
