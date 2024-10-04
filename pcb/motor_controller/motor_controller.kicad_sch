@@ -1638,7 +1638,7 @@
 			(symbol "DRV8323RHRGZT_1_1"
 				(rectangle
 					(start -16.51 12.7)
-					(end 16.51 -50.8)
+					(end 16.51 -69.85)
 					(stroke
 						(width 0)
 						(type default)
@@ -1648,7 +1648,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 10.16 0)
+					(at -19.05 -48.26 0)
 					(length 2.54)
 					(name "FB"
 						(effects
@@ -1666,7 +1666,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -12.7 0)
+					(at 19.05 -12.7 180)
 					(length 2.54)
 					(name "GLA"
 						(effects
@@ -1684,7 +1684,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -15.24 0)
+					(at -19.05 -1.27 0)
 					(length 2.54)
 					(name "SPA"
 						(effects
@@ -1702,7 +1702,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -17.78 0)
+					(at -19.05 -11.43 0)
 					(length 2.54)
 					(name "SNA"
 						(effects
@@ -1720,7 +1720,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -20.32 0)
+					(at -19.05 -13.97 0)
 					(length 2.54)
 					(name "SNB"
 						(effects
@@ -1738,7 +1738,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -22.86 0)
+					(at -19.05 -3.81 0)
 					(length 2.54)
 					(name "SPB"
 						(effects
@@ -1756,7 +1756,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -25.4 0)
+					(at 19.05 -15.24 180)
 					(length 2.54)
 					(name "GLB"
 						(effects
@@ -1774,7 +1774,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -27.94 0)
+					(at -19.05 6.35 0)
 					(length 2.54)
 					(name "SHB"
 						(effects
@@ -1792,7 +1792,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -30.48 0)
+					(at 19.05 -3.81 180)
 					(length 2.54)
 					(name "GHB"
 						(effects
@@ -1810,7 +1810,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -33.02 0)
+					(at 19.05 -6.35 180)
 					(length 2.54)
 					(name "GHC"
 						(effects
@@ -1828,7 +1828,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -35.56 0)
+					(at -19.05 3.81 0)
 					(length 2.54)
 					(name "SHC"
 						(effects
@@ -1846,7 +1846,7 @@
 					)
 				)
 				(pin power_in line
-					(at -19.05 7.62 0)
+					(at -6.35 -72.39 90)
 					(length 2.54)
 					(name "PGND"
 						(effects
@@ -1864,7 +1864,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -38.1 0)
+					(at 19.05 -17.78 180)
 					(length 2.54)
 					(name "GLC"
 						(effects
@@ -1882,7 +1882,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -35.56 180)
+					(at -19.05 -43.18 0)
 					(length 2.54)
 					(name "IDRIVE"
 						(effects
@@ -1900,7 +1900,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -40.64 0)
+					(at -19.05 -6.35 0)
 					(length 2.54)
 					(name "SPC"
 						(effects
@@ -1918,7 +1918,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -43.18 0)
+					(at -19.05 -16.51 0)
 					(length 2.54)
 					(name "SNC"
 						(effects
@@ -1936,7 +1936,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -45.72 0)
+					(at 19.05 3.81 180)
 					(length 2.54)
 					(name "SOC"
 						(effects
@@ -1954,7 +1954,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -48.26 0)
+					(at 19.05 6.35 180)
 					(length 2.54)
 					(name "SOB"
 						(effects
@@ -1972,7 +1972,7 @@
 					)
 				)
 				(pin output line
-					(at 19.05 -48.26 180)
+					(at 19.05 8.89 180)
 					(length 2.54)
 					(name "SOA"
 						(effects
@@ -1990,7 +1990,7 @@
 					)
 				)
 				(pin power_in line
-					(at 19.05 -45.72 180)
+					(at 19.05 -58.42 180)
 					(length 2.54)
 					(name "VREF"
 						(effects
@@ -2008,7 +2008,7 @@
 					)
 				)
 				(pin power_in line
-					(at 19.05 -43.18 180)
+					(at 1.27 -72.39 90)
 					(length 2.54)
 					(name "DGND"
 						(effects
@@ -2026,7 +2026,7 @@
 					)
 				)
 				(pin output line
-					(at 19.05 -40.64 180)
+					(at 19.05 -31.75 180)
 					(length 2.54)
 					(name "nFAULT"
 						(effects
@@ -2044,7 +2044,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -38.1 180)
+					(at -19.05 -55.88 0)
 					(length 2.54)
 					(name "MODE"
 						(effects
@@ -2062,7 +2062,7 @@
 					)
 				)
 				(pin power_out line
-					(at -19.05 5.08 0)
+					(at 19.05 -39.37 180)
 					(length 2.54)
 					(name "CPL"
 						(effects
@@ -2080,7 +2080,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -33.02 180)
+					(at 19.05 -50.8 180)
 					(length 2.54)
 					(name "VDS"
 						(effects
@@ -2098,7 +2098,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -30.48 180)
+					(at -19.05 -50.8 0)
 					(length 2.54)
 					(name "GAIN"
 						(effects
@@ -2116,7 +2116,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -27.94 180)
+					(at -19.05 -53.34 0)
 					(length 2.54)
 					(name "ENABLE"
 						(effects
@@ -2134,7 +2134,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -25.4 180)
+					(at -19.05 -45.72 0)
 					(length 2.54)
 					(name "CAL"
 						(effects
@@ -2152,7 +2152,7 @@
 					)
 				)
 				(pin power_in line
-					(at 19.05 -22.86 180)
+					(at -1.27 -72.39 90)
 					(length 2.54)
 					(name "AGND"
 						(effects
@@ -2170,7 +2170,7 @@
 					)
 				)
 				(pin power_out line
-					(at 19.05 -20.32 180)
+					(at 6.35 -72.39 90)
 					(length 2.54)
 					(name "DVDD"
 						(effects
@@ -2188,7 +2188,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -17.78 180)
+					(at -19.05 -21.59 0)
 					(length 2.54)
 					(name "INHA"
 						(effects
@@ -2206,7 +2206,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -15.24 180)
+					(at -19.05 -33.02 0)
 					(length 2.54)
 					(name "INLA"
 						(effects
@@ -2224,7 +2224,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -12.7 180)
+					(at -19.05 -24.13 0)
 					(length 2.54)
 					(name "INHB"
 						(effects
@@ -2242,7 +2242,7 @@
 					)
 				)
 				(pin power_out line
-					(at -19.05 2.54 0)
+					(at 19.05 -36.83 180)
 					(length 2.54)
 					(name "CPH"
 						(effects
@@ -2260,7 +2260,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -10.16 180)
+					(at -19.05 -35.56 0)
 					(length 2.54)
 					(name "INLB"
 						(effects
@@ -2278,7 +2278,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -7.62 180)
+					(at -19.05 -26.67 0)
 					(length 2.54)
 					(name "INHC"
 						(effects
@@ -2296,7 +2296,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 -5.08 180)
+					(at -19.05 -38.1 0)
 					(length 2.54)
 					(name "INLC"
 						(effects
@@ -2314,7 +2314,7 @@
 					)
 				)
 				(pin power_in line
-					(at 19.05 -2.54 180)
+					(at -3.81 -72.39 90)
 					(length 2.54)
 					(name "BGND"
 						(effects
@@ -2332,7 +2332,7 @@
 					)
 				)
 				(pin power_in line
-					(at 19.05 0 180)
+					(at 19.05 -22.86 180)
 					(length 2.54)
 					(name "CB"
 						(effects
@@ -2350,7 +2350,7 @@
 					)
 				)
 				(pin output line
-					(at 19.05 2.54 180)
+					(at 19.05 -27.94 180)
 					(length 2.54)
 					(name "SW"
 						(effects
@@ -2368,7 +2368,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 19.05 5.08 180)
+					(at 10.16 -72.39 90)
 					(length 2.54)
 					(name "NC"
 						(effects
@@ -2386,7 +2386,7 @@
 					)
 				)
 				(pin power_in line
-					(at 19.05 7.62 180)
+					(at 19.05 -53.34 180)
 					(length 2.54)
 					(name "VIN"
 						(effects
@@ -2404,7 +2404,7 @@
 					)
 				)
 				(pin input line
-					(at 19.05 10.16 180)
+					(at -19.05 -58.42 0)
 					(length 2.54)
 					(name "nSHDN"
 						(effects
@@ -2422,7 +2422,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -53.34 90)
+					(at -8.89 -72.39 90)
 					(length 2.54)
 					(name "PAD_GND"
 						(effects
@@ -2440,7 +2440,7 @@
 					)
 				)
 				(pin power_out line
-					(at -19.05 0 0)
+					(at 19.05 -48.26 180)
 					(length 2.54)
 					(name "VCP"
 						(effects
@@ -2458,7 +2458,7 @@
 					)
 				)
 				(pin power_in line
-					(at -19.05 -2.54 0)
+					(at 19.05 -55.88 180)
 					(length 2.54)
 					(name "VM"
 						(effects
@@ -2476,7 +2476,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -5.08 0)
+					(at 19.05 -45.72 180)
 					(length 2.54)
 					(name "VDRAIN"
 						(effects
@@ -2494,7 +2494,7 @@
 					)
 				)
 				(pin output line
-					(at -19.05 -7.62 0)
+					(at 19.05 -1.27 180)
 					(length 2.54)
 					(name "GHA"
 						(effects
@@ -2512,7 +2512,7 @@
 					)
 				)
 				(pin input line
-					(at -19.05 -10.16 0)
+					(at -19.05 8.89 0)
 					(length 2.54)
 					(name "SHA"
 						(effects
@@ -2591,7 +2591,7 @@
 					)
 				)
 				(pin power_out line
-					(at -8.89 2.54 0)
+					(at -8.89 -2.54 0)
 					(length 2.54)
 					(name "VOUT"
 						(effects
@@ -2609,7 +2609,7 @@
 					)
 				)
 				(pin no_connect line
-					(at -8.89 0 0)
+					(at 8.89 -2.54 180)
 					(length 2.54)
 					(name "NC"
 						(effects
@@ -2627,7 +2627,7 @@
 					)
 				)
 				(pin power_out line
-					(at -8.89 -2.54 0)
+					(at 8.89 0 180)
 					(length 2.54)
 					(name "PG"
 						(effects
@@ -2645,7 +2645,7 @@
 					)
 				)
 				(pin power_in line
-					(at 8.89 -2.54 180)
+					(at -8.89 0 0)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -2663,7 +2663,7 @@
 					)
 				)
 				(pin input line
-					(at 8.89 0 180)
+					(at 8.89 2.54 180)
 					(length 2.54)
 					(name "EN"
 						(effects
@@ -2681,7 +2681,7 @@
 					)
 				)
 				(pin power_in line
-					(at 8.89 2.54 180)
+					(at -8.89 2.54 0)
 					(length 2.54)
 					(name "VIN"
 						(effects
@@ -2750,7 +2750,7 @@
 			(symbol "MA702GQ-Z_1_1"
 				(rectangle
 					(start -7.62 11.43)
-					(end 7.62 -11.43)
+					(end 7.62 -22.86)
 					(stroke
 						(width 0)
 						(type default)
@@ -2760,7 +2760,7 @@
 					)
 				)
 				(pin output line
-					(at -10.112 8.9562 0)
+					(at -10.16 -3.81 0)
 					(length 2.54)
 					(name "SSD"
 						(effects
@@ -2778,7 +2778,7 @@
 					)
 				)
 				(pin power_in line
-					(at 10.16 -6.35 180)
+					(at -10.16 -11.43 0)
 					(length 2.54)
 					(name "TEST"
 						(effects
@@ -2796,7 +2796,7 @@
 					)
 				)
 				(pin output line
-					(at 10.16 -3.81 180)
+					(at 10.16 -8.89 180)
 					(length 2.54)
 					(name "MGL"
 						(effects
@@ -2814,7 +2814,7 @@
 					)
 				)
 				(pin input line
-					(at 10.16 -1.27 180)
+					(at -10.16 3.81 0)
 					(length 2.54)
 					(name "SCLK"
 						(effects
@@ -2832,7 +2832,7 @@
 					)
 				)
 				(pin power_in line
-					(at 10.16 1.27 180)
+					(at -1.27 -25.4 90)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -2850,7 +2850,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 10.16 3.81 180)
+					(at -10.16 -16.51 0)
 					(length 2.54)
 					(name "NC"
 						(effects
@@ -2868,7 +2868,7 @@
 					)
 				)
 				(pin input line
-					(at 10.16 6.35 180)
+					(at -10.16 -6.35 0)
 					(length 2.54)
 					(name "SSCK"
 						(effects
@@ -2886,7 +2886,7 @@
 					)
 				)
 				(pin output line
-					(at 10.16 8.89 180)
+					(at 10.16 -6.35 180)
 					(length 2.54)
 					(name "MGH"
 						(effects
@@ -2904,7 +2904,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -13.97 90)
+					(at -10.16 -13.97 0)
 					(length 2.54)
 					(name "PAD"
 						(effects
@@ -2922,7 +2922,7 @@
 					)
 				)
 				(pin output line
-					(at -10.0821 6.343 0)
+					(at 10.16 8.89 180)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -2940,7 +2940,7 @@
 					)
 				)
 				(pin output line
-					(at -10.16 3.81 0)
+					(at 10.16 3.81 180)
 					(length 2.54)
 					(name "Z"
 						(effects
@@ -2958,7 +2958,7 @@
 					)
 				)
 				(pin input line
-					(at -10.0821 0.9652 0)
+					(at -10.16 6.35 0)
 					(length 2.54)
 					(name "MOSI"
 						(effects
@@ -2976,7 +2976,7 @@
 					)
 				)
 				(pin input line
-					(at -10.112 -1.2038 0)
+					(at -10.16 1.27 0)
 					(length 2.54)
 					(name "CS"
 						(effects
@@ -2994,7 +2994,7 @@
 					)
 				)
 				(pin output line
-					(at -10.112 -3.7438 0)
+					(at 10.16 6.35 180)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -3012,7 +3012,7 @@
 					)
 				)
 				(pin output line
-					(at -10.112 -6.2838 0)
+					(at -10.16 8.89 0)
 					(length 2.54)
 					(name "MISO"
 						(effects
@@ -3030,7 +3030,7 @@
 					)
 				)
 				(pin power_in line
-					(at -10.112 -8.8238 0)
+					(at 1.27 -25.4 90)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -3048,7 +3048,7 @@
 					)
 				)
 				(pin output line
-					(at 10.16 -8.89 180)
+					(at 10.16 -1.27 180)
 					(length 2.54)
 					(name "PWM"
 						(effects
@@ -3117,7 +3117,7 @@
 			(symbol "MCP2542FDT-H/MNY_1_1"
 				(rectangle
 					(start -6.35 2.54)
-					(end 6.35 -11.43)
+					(end 6.35 -16.51)
 					(stroke
 						(width 0)
 						(type default)
@@ -3145,7 +3145,7 @@
 					)
 				)
 				(pin power_in line
-					(at -8.89 -2.54 0)
+					(at 8.89 -2.54 180)
 					(length 2.54)
 					(name "VSS"
 						(effects
@@ -3163,7 +3163,7 @@
 					)
 				)
 				(pin power_in line
-					(at -8.89 -5.08 0)
+					(at 8.89 0 180)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -3181,7 +3181,7 @@
 					)
 				)
 				(pin input line
-					(at -8.89 -7.62 0)
+					(at -8.89 -2.54 0)
 					(length 2.54)
 					(name "RXD"
 						(effects
@@ -3199,7 +3199,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 8.89 -7.62 180)
+					(at 8.89 -5.08 180)
 					(length 2.54)
 					(name "VIO"
 						(effects
@@ -3217,7 +3217,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 8.89 -5.08 180)
+					(at -8.89 -10.16 0)
 					(length 2.54)
 					(name "CANL"
 						(effects
@@ -3235,7 +3235,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 8.89 -2.54 180)
+					(at -8.89 -7.62 0)
 					(length 2.54)
 					(name "CANH"
 						(effects
@@ -3253,7 +3253,7 @@
 					)
 				)
 				(pin input line
-					(at 8.89 0 180)
+					(at 8.89 -10.16 180)
 					(length 2.54)
 					(name "STBY"
 						(effects
@@ -3271,7 +3271,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -13.97 90)
+					(at 0 -19.05 90)
 					(length 2.54)
 					(name "EP"
 						(effects
@@ -3293,7 +3293,7 @@
 	)
 	(symbol
 		(lib_id "motor_controller_symbols:MA702GQ-Z")
-		(at 135.89 71.12 0)
+		(at 87.63 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3301,8 +3301,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2065dccf-0f7b-4dbb-9160-3003908b7ad0")
-		(property "Reference" "U5"
-			(at 135.9289 54.61 0)
+		(property "Reference" "U4"
+			(at 87.6689 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3310,7 +3310,7 @@
 			)
 		)
 		(property "Value" "MA702GQ-Z"
-			(at 135.9289 57.15 0)
+			(at 87.6689 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3318,7 +3318,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 73.66 0)
+			(at 91.44 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3327,7 +3327,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 73.66 0)
+			(at 91.44 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3336,7 +3336,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 73.66 0)
+			(at 91.44 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3398,7 +3398,7 @@
 		(instances
 			(project ""
 				(path "/ea36d447-add9-4a55-9db8-127fe3248a50"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -3406,15 +3406,15 @@
 	)
 	(symbol
 		(lib_id "motor_controller_symbols:DRV8323RHRGZT")
-		(at 97.79 40.64 0)
+		(at 139.7 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "491cde95-d3d8-41f4-9a29-4a5e5bad3bd6")
-		(property "Reference" "U3"
-			(at 99.06 24.13 0)
+		(property "Reference" "U2"
+			(at 140.97 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3422,7 +3422,7 @@
 			)
 		)
 		(property "Value" "DRV8323RHRGZT"
-			(at 98.806 26.416 0)
+			(at 140.716 23.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3430,7 +3430,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 31.75 0)
+			(at 129.54 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3439,7 +3439,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 31.75 0)
+			(at 129.54 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3448,7 +3448,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 87.63 31.75 0)
+			(at 129.54 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3606,7 +3606,7 @@
 		(instances
 			(project ""
 				(path "/ea36d447-add9-4a55-9db8-127fe3248a50"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -3614,7 +3614,7 @@
 	)
 	(symbol
 		(lib_id "motor_controller_symbols:MCP2542FDT-H/MNY")
-		(at 163.83 53.34 0)
+		(at 238.76 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3622,8 +3622,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dfdc6c6-510b-4ce2-82fc-5e3a0a92e1e3")
-		(property "Reference" "U6"
-			(at 163.83 45.72 0)
+		(property "Reference" "U5"
+			(at 238.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3631,7 +3631,7 @@
 			)
 		)
 		(property "Value" "MCP2542FDT-H/MNY"
-			(at 163.83 48.26 0)
+			(at 238.76 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3639,7 +3639,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 53.34 0)
+			(at 238.76 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3648,7 +3648,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 53.34 0)
+			(at 238.76 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3657,7 +3657,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 163.83 53.34 0)
+			(at 238.76 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3695,7 +3695,7 @@
 		(instances
 			(project ""
 				(path "/ea36d447-add9-4a55-9db8-127fe3248a50"
-					(reference "U6")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -3703,7 +3703,7 @@
 	)
 	(symbol
 		(lib_id "motor_controller_symbols:LDFM33PUR")
-		(at 135.89 45.72 0)
+		(at 236.22 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3711,8 +3711,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a51f99d7-2bc1-4c50-b049-3c220354e5c1")
-		(property "Reference" "U4"
-			(at 135.89 35.56 0)
+		(property "Reference" "U3"
+			(at 236.22 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3720,7 +3720,7 @@
 			)
 		)
 		(property "Value" "LDFM33PUR"
-			(at 135.89 38.1 0)
+			(at 236.22 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3728,7 +3728,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 45.72 0)
+			(at 237.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,7 +3737,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 45.72 0)
+			(at 237.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3746,7 +3746,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 45.72 0)
+			(at 237.49 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3775,7 +3775,7 @@
 		(instances
 			(project ""
 				(path "/ea36d447-add9-4a55-9db8-127fe3248a50"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -3783,16 +3783,15 @@
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32F4:STM32F446RETx")
-		(at 44.45 60.96 0)
+		(at 40.64 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c8cd0d82-c07d-4a39-8cfc-eafbe6a0b89e")
 		(property "Reference" "U1"
-			(at 49.1841 106.68 0)
+			(at 52.07 16.764 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3801,7 +3800,7 @@
 			)
 		)
 		(property "Value" "STM32F446RETx"
-			(at 49.1841 109.22 0)
+			(at 52.07 19.304 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3810,7 +3809,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm"
-			(at 29.21 104.14 0)
+			(at 25.4 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3820,7 +3819,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f446re.pdf"
-			(at 44.45 60.96 0)
+			(at 40.64 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +3828,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 180 MHz, 1.8-3.6V, 50 GPIO, LQFP64"
-			(at 44.45 60.96 0)
+			(at 40.64 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
